@@ -8,5 +8,6 @@ tar -xvzf *.tar.gz
 Install from SDB/smap.git with py2 in CLI
 ```
 cp schema to site-packages/smap/schema
+grep -rnw . -e  "pybonjour not available"
 ```
 
